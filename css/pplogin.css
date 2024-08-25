@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+:root{
+    --bg-color: #ffffff;
+    --text-color:#111111;
+    --main-color: #4D855A;
+    --big-font:4.5rem;
+    --h2-font:3.3rem;
+    --h3-font:2rem;
+    --normal-font:1rem;
+}
+
+
+
+   section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(img/login.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+}
+.form-box{
+    position: relative;
+    width: 400px;
+    height: 450px;
+    background: transparent;
+    border: 2px solid rgba(238, 225, 225, 0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+h2{
+    font-size: 2em;
+    color: var(--text-color);
+    font-family: 'poppins',sans-serif;
+    text-align: center;
+}
+h2:hover{
+    color: var(--main-color);
+    cursor: pointer;
+}
+.inputbox{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 2px solid var(--text-color);
+}
+.inputbox label{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: var(--text-color);
+    font-size: 1em;
+    pointer-events: none;
+    transition: .5s;
+}
+input:focus ~ label,
+input:valid ~ label{
+top: -5px;
+}
+.inputbox input {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding:0 35px 0 5px;
+    color: var(--text-color);
+}
+.inputbox ion-icon{
+    position: absolute;
+    right: 8px;
+    color: var(--text-color);
+    font-size: 1.2em;
+    top: 20px;
+}
+.forget{
+    margin: -15px 0 15px ;
+    font-size: .9em;
+    color: var(--text-color);
+    display: flex;
+    justify-content: space-between;  
+}
+
+.forget label input{
+    margin-right: 3px;
+    
+}
+.forget label a{
+    color: var(--text-color);
+    text-decoration: none;
+}
+.forget label a:hover{
+    text-decoration: underline;
+}
+button{
+    display: inline-block;
+    padding: 13px 25px;
+    background: var(--text-color);
+    color:var(--bg-color);
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 5px;
+    transition: all .35s ease;
+    border: none;
+    margin-left: 100px;
+}
+button:hover{
+    transform: translateY(-5px);
+    background: var(--main-color);
+}
+.register{
+    font-size: .9em;
+    color: var(--text-color);
+    text-align: center;
+    margin: 25px 0 10px;
+}
+.register p a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 600;
+}
+.register p a:hover{
+    color: var(--main-color);
+}
+
+* Responsive for screen sizes larger than 768px */
+@media (min-width: 768px) {
+    .form-box {
+        width: 400px;
+        height: 450px;
+        margin-top: 80px; /* Adjusted for medium screens */
+    }
+
+    h2 {
+        font-size: 2em;
+    }
+
+    .inputbox {
+        margin: 25px 0;
+        width: 310px;
+    }
+
+    .inputbox input {
+        height: 50px;
+        font-size: 1em;
+    }
+
+    button {
+        padding: 13px 25px;
+        margin-left: 100px;
+    }
+}
+
+/* Responsive for screen sizes larger than 992px */
+@media (min-width: 992px) {
+    .form-box {
+        width: 450px;
+        height: 500px;
+        margin-top: 60px; /* Adjusted for larger screens */
+    }
+
+    h2 {
+        font-size: 2.2em;
+    }
+
+    .inputbox {
+        margin: 30px 0;
+        width: 330px;
+    }
+
+    .inputbox input {
+        height: 55px;
+        font-size: 1.1em;
+    }
+
+    button {
+        margin-left: 120px;
+    }
+}
+
+/* Responsive for screen sizes larger than 1200px */
+@media (min-width: 1200px) {
+    .form-box {
+        width: 500px;
+        height: 550px;
+        margin-top: 50px; /* Adjusted for extra-large screens */
+    }
+
+    h2 {
+        font-size: 2.5em;
+    }
+
+    .inputbox {
+        margin: 35px 0;
+        width: 350px;
+    }
+
+    .inputbox input {
+        height: 60px;
+        font-size: 1.2em;
+    }
+
+    button {
+        margin-left: 140px;
+    }
+}
+
+
+
+
+

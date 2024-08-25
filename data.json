@@ -1,0 +1,188 @@
+[
+            {
+                "title": "Monstera Deliciosa",
+                "price": "5,680 | $10.00",
+                "image": "css/img/p1.jfif"
+            },
+            {
+                "title": "Ficus Elastica",
+                "price": "8,970 | $30.00",
+                "image": "css/img/p2.jfif"
+            },
+            {
+                "title": "METAL BOTTLE",
+                "price": "11,960 | $40.00",
+                "image": "css/img/p3.jfif"
+            },
+            {
+                "title": "ZEpipremnum Aureum",
+                "price": "5,113 | $17.10",
+                "image": "css/img/p4.jfif"
+            },
+            {
+                "title": "Philodendron",
+                "price": "6,279 | $21.00",
+                "image": "css/img/p5.jfif"
+            },
+            {
+                "title": "Chlorophytum Comosum",
+                "price": "5,113 | $17.10",
+                "image": "css/img/p6.jfif"
+            },
+            {
+                "title": "Zamioculcas Zamiifolia",
+                "price": "8,999 | $30.10",
+                "image": "css/img/p7.jfif"
+            },
+            {
+                "title": "Dracaena",
+                "price": "13,455 | $45.00",
+                "image": "css/img/p8.jfif"
+            },
+            {
+                "title": "Aglaonema",
+                "price": "6,279 | $21.00",
+                "image": "css/img/p9.jfif"
+            },
+            {
+                "title": "Fiddle Leaf Fig",
+                "price": "4,485 | $15.00",
+                "image": "css/img/p10.jfif"
+            },
+            {
+                "title": "Calathea",
+                "price": "8,671 | $29.00",
+                "image": "css/img/p11.jfif"
+            },
+            {
+                "title": "TAlocasia",
+                "price": "8,073 | $27.00",
+                "image": "css/img/p13.jfif"
+            },
+            {
+                "title": "Dieffenbachia",
+                "price": "8,073 | $27.00",
+                "image": "css/img/p14.jfif"
+            },
+            {
+                "title": "Peace Lily",
+                "price": "5,681 | $19.00",
+                "image": "css/img/p15.jfif"
+            },
+            {
+                "title": "Jade Plant",
+                "price": "7,475 | $25.00",
+                "image": "css/img/p16.jfif"
+            },
+            {
+                "title": "Peperomia",
+                "price": "8,671 | $29.00",
+                "image": "css/img/p17.jfif"
+            },
+            {
+                "title": "Boston Fern",
+                "price": "4,485 | $15.00",
+                "image": "css/img/p18.jfif"
+            },
+            {
+                "title": "Maidenhair Fern",
+                "price": "8,073 | $27.00",
+                "image": "css/img/p19.jfif"
+            },
+            {
+                "title": "Bougainvillea",
+                "price": "5,680 | $10.00",
+                "image": "css/img/o1.jfif"
+            },
+            {
+                "title": "Marigold",
+                "price": "7,450 | $15.00",
+                "image": "css/img/o2.jfif"
+            },
+            {
+                "title": "Forsythia",
+                "price": "8,120 | $12.50",
+                "image": "css/img/o3.jfif"
+            },
+            {
+                "title": "Gardenia",
+                "price": "6,300 | $9.75",
+                "image": "css/img/o4.jfif"
+            },
+            {
+                "title": "Oleander",
+                "price": "9,800 | $20.00",
+                "image": "css/img/o5.jfif"
+            },
+            {
+                "title": "Lantana",
+                "price": "4,220 | $8.00",
+                "image": "css/img/o6.jfif"
+            },
+            {
+                "title": "Petunia",
+                "price": "7,999 | $14.50",
+                "image": "css/img/o7.jfif"
+            },
+            {
+                "title": "Red Maple",
+                "price": "6,540 | $11.25",
+                "image": "css/img/o8.jfif"
+            },
+            {
+                "title": "Begonia",
+                "price": "8,670 | $16.00",
+                "image": "css/img/o9.jfif"
+            },
+            {
+                "title": "Geranium",
+                "price": "5,990 | $10.75",
+                "image": "css/img/o10.jfif"
+            },
+            {
+                "title": "Clematis",
+                "price": "7,320 | $13.50",
+                "image": "css/img/o11.jfif"
+            },
+            {
+                "title": "Zinnia",
+                "price": "9,450 | $19.00",
+                "image": "css/img/o12.jfif"
+            },
+            {
+                "title": "Hosta",
+                "price": "6,780 | $12.00",
+                "image": "css/img/o13.jfif"
+            },
+            {
+                "title": "Juniper",
+                "price": "8,230 | $15.25",
+                "image": "css/img/o14.jfif"
+            },
+            {
+                "title": "Yarrow",
+                "price": "5,360 | $9.00",
+                "image": "css/img/o15.jfif"
+            },
+            {
+                "title": "Rhododendron",
+                "price": "7,890 | $14.00",
+                "image": "css/img/o16.jfif"
+            },
+            {
+                "title": "Rubber",
+                "price": "6,250 | $11.00",
+                "image": "css/img/o17.jfif"
+            },
+            {
+                "title": "Hydrangea",
+                "price": "8,910 | $18.00",
+                "image": "css/img/o18.jfif"
+            },
+            {
+                "title": "Boxwood",
+                "price": "4,980 | $7.50",
+                "image": "css/img/o19.jfif"
+            }
+    
+]
